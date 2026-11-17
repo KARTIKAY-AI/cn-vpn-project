@@ -8,3 +8,4 @@ VM: 4 CPUs, 8 GB RAM, 50 GB disk, NAT
 Baseline (no VPN, no netem): 22.5 Gbit/s, ping avg 0.069 ms
 netem works: delay split across both sides, loss on client side
 WireGuard: throughput not measured, ping avg 2.064 ms (MTU 1420 default)
+OpenVPN: UDP, AES-256-GCM, default MTU. 2.44 Gbit/s, ping avg 0.169 ms
