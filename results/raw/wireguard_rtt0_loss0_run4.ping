@@ -1,0 +1,5 @@
+PING 10.9.0.1 (10.9.0.1) 56(84) bytes of data.
+
+--- 10.9.0.1 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 2177ms
+rtt min/avg/max/mdev = 2.640/31.417/206.752/62.480 ms, pipe 2
